@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Hi! I'm Bob. I'm new here.
-=======
 Hi! I'm Bob. I've been here for a while now.
 Hi! There is now text on the second line.
->>>>>>> 2fef79a... Changed Bob
