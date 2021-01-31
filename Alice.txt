@@ -1,3 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Hi! The second line has been changed.
-Hi! This is anoter remote change.
+Hi! The second line has been changed again.
