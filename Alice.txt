@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Hi! The second line has been changed.
+<<<<<<< HEAD
 Hi! There is text on the third line.
+=======
+Hi! This is anoter remote change.
+>>>>>>> 3c9eb5c71471c4bce727c09dfea3a8f88e8cdd50
